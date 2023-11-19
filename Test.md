@@ -9,3 +9,8 @@ _Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
  - Jwana Al-Gazu
  - SE
  - Software Development and documentation
+
+### SDD:-
+1. Data model
+2. UI
+3. Archetictural design
