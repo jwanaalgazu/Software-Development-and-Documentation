@@ -6,7 +6,8 @@ _Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
  **_ vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus._**
  
  ### [ASU](https://www.asu.edu.jo/) :-
-<img align="Right" src="https://github.com/jwanadude/Software-Development-and-Documentation/assets/140501135/a7fe076d-e286-4e16-8879-c79767cdd10e" />
+<img align="Right" src="https://github.com/jwanadude/Software-Development-and-Documentation/assets/140501135/a7fe076d-e286-4e16-8879-c79767cdd10e" /> 
+
  - Jwana Al-Gazu
  - SE
  - Software Development and documentation
