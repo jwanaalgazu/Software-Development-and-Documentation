@@ -6,6 +6,6 @@ _Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
  **_ vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus._**
  
  ### ASU:-
- _ Jwana Al-Gazu
- _ SE
- _ Software Development and documentation
+ - Jwana Al-Gazu
+ - SE
+ - Software Development and documentation
